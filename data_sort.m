@@ -6,7 +6,7 @@ function B = data_sort()
         my_data = importdata('seismicity-2006-2017.txt') %% This is a sample file - for format
         
         %to input arguments in the dialogue box
-        prompt = {'Enter year','Enter magnitude','enter region'};
+        prompt = {'Enter year','Enter magnitude','enter region: kachchh/saurashta/mainland'};
         dlgtitle = 'Input parameters';
         answer = inputdlg(prompt,dlgtitle)
         input = cell2mat(answer(1,1));
