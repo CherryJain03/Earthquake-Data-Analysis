@@ -3,7 +3,7 @@
 function B = data_sort()
     
 %% IMPORT YOUR DATA HERE
-        my_data = importdata('seismicity-2006-2017.txt')
+        my_data = importdata('seismicity-2006-2017.txt') %% This is a sample file - for format
         
         %to input arguments in the dialogue box
         prompt = {'Enter year','Enter magnitude','enter region'};
