@@ -1,4 +1,4 @@
-# Earthquake-Data-Analysis
+# Earthquake Data Analysis and Visualisation
 
 1.  A MATLAB programme to handle, sort, filter and analyse the large scale earthquake data. It can filter out the data according to depth, magnitude and region (in this particular example - only 3 region's of Gujarat are taken into consideration according to their latitude and langitude divide into - Kacchh, Saurashtra and Mainland.
 
